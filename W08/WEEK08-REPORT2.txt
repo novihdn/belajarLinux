@@ -1,0 +1,18 @@
+ZCZC df
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev             4069928       0   4069928   0% /dev
+tmpfs             816960    8644    808316   2% /run
+/dev/sda2       65543732 2820880  59363620   5% /
+tmpfs            4084796       0   4084796   0% /dev/shm
+tmpfs               5120       0      5120   0% /run/lock
+tmpfs            4084796       0   4084796   0% /sys/fs/cgroup
+/dev/sdb2       65543732  493956  61690544   1% /mnt/lfs
+tmpfs             816956       0    816956   0% /run/user/1001
+ZCZC pwd
+/home/novihdn/RESULT/W08
+ZCZC date
+Sun 09 May 2021 07:55:48 PM WIB
+ZCZC hostname
+novihdn
+ZCZC chktoken
+novihdn 5654-62B6
